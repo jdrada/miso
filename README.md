@@ -6,7 +6,7 @@
 
 ## 📌 Índice
 
-1. [Relación entre Arquitectura y Diseño Detallado](./4101-principios-de-arquitectura-y-diseno-de-software)
+1. [Principios de diseño y arquitectura de software](./4101-principios-de-arquitectura-y-diseno-de-software)
 2. [Prácticas esenciales de ingeniería de software para el agilismo](./4102-practicas-esenciales-de-ingenieria-de-software-para-el-agilismo)
 3. ... (otros archivos y notas conforme vayas agregando)
 
